@@ -1,5 +1,5 @@
 # 🚀 Hackathon - Hacker Cidadão 13.0 
-![Imagem Hacker Cidadão 13.0](assets/hackercidadao.png)
+![Imagem Hacker Cidadão 13.0](assets/hackercidadao.jpeg)
 
 # 💡 Desafio
 Como podemos construir uma estratégia que propicie o monitoramento e apoio ao autocuidado da pessoa com hipertensão e/ou diabetes para facilitar a adesão e acompanhamento do tratamento?
@@ -26,7 +26,7 @@ Realizamos **252 entrevistas** via formulário e **20 entrevistas presenciais**,
 - **60% têm dificuldade no uso das ferramentas tecnológicas** disponíveis
 
 # 🧠 Nossa Solução
-![Imagem Hacker Cidadão 13.0](assets/mobileandpage.png)
+![Imagem Hacker Cidadão 13.0](assets/mobileandpage.jpeg)
 
 **Desenvolvemos um aplicativo para pacientes com hipertensão e/ou diabetes e uma proposta de repaginação do E-Gestor**, ambos integrados e conectados ao PEC (Prontuário Eletrônico do Cidadão).
 
